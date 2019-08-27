@@ -1,0 +1,1 @@
+As a player, I want to know the player who will show me a card proving my suggestion is false.

@@ -1,0 +1,13 @@
+a)There is a Make Accusation button in the GUI on the bottom right.
+b)There is a window to the right of the board to enter accusation.
+c)There are directions on the top of the window that specifies when does
+the player enter a person, weapon, and room.
+d)The console says invalid entry when an input does not relate to the game.
+e)Once the player enters the accusation phase, the player can input the 
+player, weapon, and room. There will be a confirmation message. 
+
+Accusation class
+Game class 330 - 333 skiplosers method 445 - 453 makeAccusation method
+AccusePane class
+UI class 223 - 234 passAccusation method
+Player class 46 - 52 loser methods

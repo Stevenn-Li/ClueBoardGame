@@ -1,0 +1,12 @@
+a) and b)When the inputed accusation does not match the answer in the envelope, it will
+display a message saying that the player lost.
+c)When it is supposed to be a loser's turn, the loser's turn gets skipped, preventing
+the loser to make any moves.
+d)Although losers cannot make any moves, their cards are still in play to disprove
+suggestions.
+
+Accusation class
+Game class 330 - 333 skiplosers method 445 - 453 makeAccusation method
+AccusePane class
+UI class 223 - 234 passAccusation method
+Player class 46 - 52 loser methods

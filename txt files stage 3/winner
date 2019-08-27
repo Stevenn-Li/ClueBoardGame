@@ -1,0 +1,9 @@
+a) and b) When the accusation inputed matches the answer in the envelope,
+it will display a message saying that the player wins. If the inputed accusation
+does not match the answers, it will display a message saying that the player loses.
+
+Accusation class
+Game class 330 - 333 skiplosers method 445 - 453 makeAccusation method
+AccusePane class
+UI class 223 - 234 passAccusation method
+Player class 46 - 52 loser methods
